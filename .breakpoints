@@ -1,5 +1,21 @@
 {
   "files": {
+    "Advance Python Decorator/Decorator.py": [
+      {
+        "id": "c801fca8-8a57-4623-ba41-a050ac1267c5",
+        "line": 9,
+        "version": 242,
+        "index": 161
+      }
+    ],
+    "Advance Python Decorator/Performance Decorator.py": [
+      {
+        "id": "8ac72402-6523-480f-bca4-4efaaca1f8b6",
+        "line": 17,
+        "version": 252,
+        "index": 261
+      }
+    ],
     "Advance Python Functional Programming/List Comprehension.py": [
       {
         "id": "4c334d1e-ef81-41c3-94a1-5fe36e729701",
